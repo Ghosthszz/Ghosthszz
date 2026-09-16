@@ -1,97 +1,58 @@
 <div align="center">
-👾 Gustavo — Ghosthszz
-IT Apprentice • Developer • Cybersecurity Enthusiast
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+%F0%9F%91%BE;Exploring+Code+%26+Cybersecurity+%F0%9F%94%90;Building%2C+Learning+%26+Experimenting+%F0%9F%A4%96;Always+curious+about+technology+%F0%9F%9A%80" alt="Typing SVG" /> <br>
+Gustavo
+IT Apprentice · Developer · Cybersecurity Enthusiast
 
 </div>
-🧑‍💻 About Me
-$ whoami
+About Me
 
-> Gustavo
-> IT Apprentice
-> Tech Enthusiast
-> Developer
-> Cybersecurity Explorer
-> AI Enthusiast
+I'm a technology enthusiast focused on software development, cybersecurity, and emerging technologies.
+
+Currently, I'm developing my skills through personal projects, experimentation, and continuous learning. I enjoy understanding how systems work, building practical solutions, and exploring new technologies.
+
+💻 Interested in software development and web technologies
+
+🔐 Exploring cybersecurity and information security
+
+🤖 Interested in artificial intelligence
+
+📚 Constantly learning and improving my technical skills
+
+🚀 Building projects to turn ideas into practical solutions
+
+Technologies
+<div align="left">
 
 
-I'm a technology enthusiast constantly exploring the world of programming, cybersecurity and artificial intelligence.
 
-I enjoy building projects, experimenting with new ideas and learning how things work under the hood.
 
-┌──────────────────────────────────────────────┐
-│                                              │
-│   💻 Programming                             │
-│   🔐 Cybersecurity                           │
-│   🤖 Artificial Intelligence                 │
-│   🧠 Continuous Learning                     │
-│   🚀 Personal Projects                       │
-│                                              │
-└──────────────────────────────────────────────┘
 
-⚡ Current Interests
 
-🔐 Cybersecurity & Ethical Hacking
 
-🤖 Artificial Intelligence
 
-💻 Web Development
-
-🐍 Python
-
-🌐 HTML & JavaScript
-
-🧠 Programming & Problem Solving
-
-🧪 Experimenting with new technologies
-
-🚀 Featured Projects
-🛡️ Sea-Shield
-
-A project focused on technology and web development.
-
-💬 Chat
-
-A web-based chat project built to experiment with interactive applications.
-
-🐦 Flap-Bird
-
-A JavaScript project inspired by the classic Flappy Bird concept.
-
-🔗 Links
-
-A personal project created to showcase projects, information and links.
-
-🖥️ CMD
-
-A Python-based project focused on command-line experimentation.
-
-🛠️ Technologies & Tools
-<div align="center"> <img src="https://skillicons.dev/icons?i=python,html,css,js,git,github,vscode" /> </div>
-📊 GitHub Stats
-<div align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ghosthszz&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ghosthszz&layout=compact&langs_count=8&theme=chartreuse-dark"/> </div>
-🔥 Contribution Streak
-<div align="center"> <img src="https://streak-stats.demolab.com?user=Ghosthszz&theme=chartreuse-dark&hide_border=true" /> </div>
-🐍 Contribution Snake
-<div align="center">
 
 </div>
-💭 Philosophy
+Featured Projects
+Project	Description
+🛡️ Sea-Shield	Project focused on technology and web development
+💬 Chat	Web-based chat application
+🐦 Flap-Bird	JavaScript game project
+🔗 Links	Personal links and web project
+🖥️ CMD	Python project focused on command-line experimentation
+GitHub Activity
+<div align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=Ghosthszz&show_icons=true&hide_border=true&theme=transparent&title_color=2F81F7&icon_color=2F81F7&text_color=8B949E&bg_color=00000000" /> <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ghosthszz&layout=compact&hide_border=true&theme=transparent&title_color=2F81F7&text_color=8B949E&bg_color=00000000" /> </div>
+Currently Learning
+Software Development
+Cybersecurity
+Artificial Intelligence
+Web Technologies
+Programming Fundamentals
 
-"The more you learn, the more you realize how much there is left to discover."
-
+Contact
 <div align="center">
-root@ghosthszz:~$
-ACCESS GRANTED ✓
 
-STATUS: Learning...
-MODE: Building...
-MISSION: Keep exploring.
+If you'd like to collaborate, discuss technology, or check out my projects, feel free to explore my repositories.
 
-
-
-Thanks for visiting my profile! 👾
-
-⭐ Feel free to explore my repositories.
-
+</div>
+<div align="center">
+Keep learning. Keep building.
 </div>
