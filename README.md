@@ -18,17 +18,19 @@ I'm a technology enthusiast constantly exploring the world of programming, cyber
 
 I enjoy building projects, experimenting with new ideas, understanding how things work under the hood, and most importantly, learning something new every day.
 
-┌──────────────────────────────────────────────┐
-│                                              │
-│   💻 Programming                             │
-│   🔐 Cybersecurity                           │
-│   🤖 Artificial Intelligence                 │
-│   🧠 Continuous Learning                     │
-│   🚀 Personal Projects                       │
-│   📚 Always Improving                        │
-│   ⚡ Experimenting & Building                 │
-│                                              │
-└──────────────────────────────────────────────┘
+<pre>
++----------------------------------------------+
+|                                              |
+|   Programming                                |
+|   Cybersecurity                              |
+|   Artificial Intelligence                    |
+|   Continuous Learning                        |
+|   Personal Projects                          |
+|   Always Improving                            |
+|   Experimenting & Building                   |
+|                                              |
++----------------------------------------------+
+</pre>
 
 ⚡ Current Interests
 
@@ -86,17 +88,21 @@ A Python project focused on command-line experimentation.
 <div align="center">
 root@ghosthszz:~$ ./status.sh
 
-╔══════════════════════════════════════╗
-║                                      ║
-║   USER     : Ghosthszz               ║
-║   STATUS   : Learning...             ║
-║   MODE     : Building...             ║
-║   FOCUS    : Technology              ║
-║   MISSION  : Keep Learning           ║
-║                                      ║
-╚══════════════════════════════════════╝
+<pre>
+root@ghosthszz:~$ ./status.sh
+
++--------------------------------------+
+|                                      |
+|   USER     : Ghosthszz              |
+|   STATUS   : Learning...             |
+|   MODE     : Building...             |
+|   FOCUS    : Technology              |
+|   MISSION  : Keep Learning           |
+|                                      |
++--------------------------------------+
 
 Learning. Building. Evolving. 🚀
+</pre>
 
 Thanks for visiting my profile! 👾
 
